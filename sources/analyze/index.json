@@ -1,0 +1,109 @@
+{
+  "name": "Zyfun 综合视频源",
+  "version": "1.0.0",
+  "description": "最全面的 Zyfun 视频源，包含解析接口、CMS资源站、直播源、云盘源",
+  "source": "https://github.com/chao921125/source",
+  "last_updated": "2026-06-05",
+  "subscribe_url": "https://raw.githubusercontent.com/chao921125/source/main/zyfun/index.json",
+  "categories": {
+    "analyze": {
+      "name": "解析接口",
+      "count": 35,
+      "items": [
+        {"name": "咸鱼", "api": "https://jx.xyflv.cc/?url=", "type": 1},
+        {"name": "虾米", "api": "https://jx.xmflv.com/?url=", "type": 1},
+        {"name": "夜幕", "api": "https://www.yemu.xyz/?url=", "type": 1},
+        {"name": "M3U8.TV", "api": "https://dmjx.m3u8.tv/?url=", "type": 1},
+        {"name": "冰豆", "api": "https://bd.jx.cn/?url=", "type": 1},
+        {"name": "CK", "api": "https://www.ckplayer.vip/jiexi/?url=", "type": 1},
+        {"name": "PlayerJy[需点击]", "api": "https://jx.playerjy.com/?url=", "type": 1},
+        {"name": "BL", "api": "https://vip.bljiex.com/?v=", "type": 1},
+        {"name": "777Player", "api": "https://jx.jsonplayer.com/player/?url=", "type": 1},
+        {"name": "爱狗", "api": "https://jx.i2g.cn/?url=", "type": 1},
+        {"name": "南风蓝光", "api": "http://jx.66666zy.top/?url=", "type": 1},
+        {"name": "猫影", "api": "https://jx.xgphp.cn/player/?url=", "type": 1},
+        {"name": "1907[需点击]", "api": "https://im1907.top/?jx=", "type": 1},
+        {"name": "爱豆", "api": "https://jx.aidouer.net/?url=", "type": 2},
+        {"name": "OK解析", "api": "https://okjx.cc/?url=", "type": 2},
+        {"name": "诺讯", "api": "https://www.nxflv.com/?url=", "type": 2},
+        {"name": "M3U8.TV", "api": "https://jx.m3u8.tv/jiexi/?url=", "type": 2},
+        {"name": "人人迷", "api": "https://jx.blbo.cc:4433/?url=", "type": 2},
+        {"name": "七哥", "api": "https://jx.nnxv.cn/tv.php?url=", "type": 2},
+        {"name": "冰豆", "api": "https://api.qianqi.net/vip/?url=", "type": 2},
+        {"name": "迪奥", "api": "https://123.1dior.cn/?url=", "type": 2},
+        {"name": "ckmov", "api": "https://www.ckmov.vip/api.php?url=", "type": 2},
+        {"name": "ccyjjd", "api": "https://ckmov.ccyjjd.com/ckmov/?url=", "type": 2},
+        {"name": "诺诺", "api": "https://www.ckmov.com/?url=", "type": 2},
+        {"name": "H8", "api": "https://www.h8jx.com/jiexi.php?url=", "type": 2},
+        {"name": "解析la", "api": "https://api.jiexi.la/?url=", "type": 2},
+        {"name": "MUTV", "api": "https://jiexi.janan.net/jiexi/?url=", "type": 2},
+        {"name": "MAO", "api": "https://www.mtosz.com/m3u8.php?url=", "type": 2},
+        {"name": "盘古", "api": "https://www.pangujiexi.cc/jiexi.php?url=", "type": 2},
+        {"name": "0523", "api": "https://go.yh0523.cn/y.cy?url=", "type": 2},
+        {"name": "17云", "api": "https://www.1717yun.com/jx/ty.php?url=", "type": 2},
+        {"name": "4K", "api": "https://jx.4kdv.com/?url=", "type": 2},
+        {"name": "8090", "api": "https://www.8090g.cn/?url=", "type": 2},
+        {"name": "180", "api": "https://jx.000180.top/jx/?url=", "type": 2},
+        {"name": "无名", "api": "https://www.administratorw.com/video.php?url=", "type": 2},
+        {"name": "yangtu", "api": "https://jx.yangtu.top/?url=", "type": 2},
+        {"name": "小新", "api": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url=", "type": 2},
+        {"name": "777", "api": "https://jx.777jiexi.com/player/?url=", "type": 2},
+        {"name": "json", "api": "https://jx.bozrc.com:4433/player/?url=", "type": 2},
+        {"name": "战狼", "api": "https://jx.zhanlangbu.com/?url=", "type": 2},
+        {"name": "听乐", "api": "https://jx.dj6u.com/?url=", "type": 2}
+      ]
+    },
+    "cms": {
+      "name": "CMS资源站",
+      "count": 28,
+      "items": [
+        {"name": "量子资源", "api": "http://cj.lziapi.com/api.php/provide/vod/", "search": false, "type": 1},
+        {"name": "非凡资源", "api": "http://www.ffzy.tv/api.php/provide/vod/", "search": false, "type": 1},
+        {"name": "快车资源", "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list", "search": true, "type": 1},
+        {"name": "无尽资源", "api": "https://api.wujinapi.me/api.php/provide/vod/", "search": false, "type": 1},
+        {"name": "速播资源", "api": "https://subocj.com/api.php/provide/vod/at/json", "search": true, "type": 1},
+        {"name": "魔爪资源", "api": "https://mozhuazy.com/api.php/provide/vod/at/xml", "search": true, "type": 0},
+        {"name": "极速资源", "api": "https://jszyapi.com/api.php/provide/vod", "search": true, "type": 1},
+        {"name": "樱花资源", "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/", "search": false, "type": 1},
+        {"name": "闪电资源", "api": "http://sdzyapi.com/api.php/provide/vod/", "search": false, "type": 1},
+        {"name": "红牛资源", "api": "https://www.hongniuzy2.com/api.php/provide/vod/", "search": false, "type": 1},
+        {"name": "旺旺资源", "api": "https://api.wwzy.tv/api.php/provide/vod/at/xml/?ac=list", "search": true, "type": 0},
+        {"name": "猫眼资源", "api": "https://api.maoyanapi.top/api.php/provide/vod/at/xml", "search": true, "type": 0},
+        {"name": "百度资源", "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list", "search": true, "type": 1},
+        {"name": "暴风资源", "api": "https://bfzyapi.com/api.php/provide/vod/at/xml", "search": true, "type": 0},
+        {"name": "光速资源", "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/", "search": true, "type": 0},
+        {"name": "牛牛资源", "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml", "search": true, "type": 0},
+        {"name": "细胞资源", "api": "https://www.xxibaozyw.com/api.php/provide/vod/at/xml/", "search": true, "type": 0},
+        {"name": "电影天堂", "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/", "search": true, "type": 0},
+        {"name": "虎牙资源", "api": "https://www.huyaapi.com/api.php/provide/vod/at/json", "search": true, "type": 1},
+        {"name": "淘片资源", "api": "https://taopianapi.com/cjapi/sda/vod/json.html", "search": true, "type": 1},
+        {"name": "金鹰云资源", "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json", "search": true, "type": 1},
+        {"name": "豆瓣资源", "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/", "search": true, "type": 1},
+        {"name": "茅台资源", "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/", "search": true, "type": 1},
+        {"name": "幸资源站", "api": "https://xzybb1.com/api.php/provide/vod/at/xml", "search": true, "type": 0},
+        {"name": "猫眼资源2", "api": "https://api.maoyanapi.top/api.php/provide/vod", "search": true, "type": 1},
+        {"name": "CK伦理资源", "api": "https://ckzy.me/api.php/provide/vod/at/xml/?ac=list", "search": true, "type": 0},
+        {"name": "金鹰资源", "api": "https://jyzyapi.com/provide/vod/at/xml/", "search": true, "type": 0}
+      ]
+    },
+    "iptv": {
+      "name": "直播源",
+      "count": 1,
+      "items": [
+        {"name": "电视直播", "api": "https://gh-proxy.org/https://github.com/chao921125/source/blob/main/iptv/index.m3u", "epg": "https://epg.112114.eu.org/?ch={name}&date={date}", "logo": "https://epg.112114.eu.org/logo/{name}.png"}
+      ]
+    },
+    "cloud": {
+      "name": "云盘源",
+      "count": 6,
+      "items": [
+        {"name": "丫仙女", "api": "http://alist.xiaoya.pro/", "type": 13},
+        {"name": "布满灰尘", "api": "https://pan.baiblog.ren/", "type": 13},
+        {"name": "七米蓝", "api": "https://al.chirmyram.com", "type": 13},
+        {"name": "神族九帝", "api": "https://alist.shenzjd.com", "type": 13},
+        {"name": "姬路白雪", "api": "https://pan.jlbx.xyz", "type": 13},
+        {"name": "星梦", "api": "https://pan.bashroot.top", "type": 13}
+      ]
+    }
+  }
+}
