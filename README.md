@@ -9,6 +9,8 @@
 ## 📋 目录
 
 - [快速导入](#快速导入)
+- [CMS 资源站（API 接口）](#cms-资源站api-接口)
+- [Alist 网盘源](#alist-网盘源)
 - [视频解析源（远端导入）](#视频解析源远端导入)
 - [直播源 / IPTV](#直播源--iptv)
 - [一站式源合集](#一站式源合集)
@@ -41,6 +43,62 @@ https://cdn.jsdmirror.cn/gh/ls125781003/dmtg@master/zy.json
 ```
 https://pz.nxpz.xyz/nx.json
 ```
+
+---
+
+## 🎞️ CMS 资源站（API 接口）
+
+> Zyfun 3.3.4+ 支持 "一键配置 → 此软件" 类型填入以下 API 地址。
+> 设置 → 基础配置 → 数据管理 → 快捷配置 → 此软件 → 填入接口地址。
+
+| 名称 | API 地址 |
+|------|----------|
+| 量子资源 | `http://cj.lziapi.com/api.php/provide/vod/` |
+| 非凡资源 | `http://www.ffzy.tv/api.php/provide/vod/` |
+| 快车资源 | `https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list` |
+| 无尽资源 | `https://api.wujinapi.me/api.php/provide/vod/` |
+| 速播资源 | `https://subocj.com/api.php/provide/vod/at/json` |
+| 魔爪资源 | `https://mozhuazy.com/api.php/provide/vod/at/xml` |
+| 极速资源 | `https://jszyapi.com/api.php/provide/vod` |
+| 樱花资源 | `https://m3u8.apiyhzy.com/api.php/provide/vod/` |
+| 闪电资源 | `http://sdzyapi.com/api.php/provide/vod/` |
+| 红牛资源 | `https://www.hongniuzy2.com/api.php/provide/vod/` |
+| 旺旺资源 | `https://api.wwzy.tv/api.php/provide/vod/at/xml/?ac=list` |
+| 猫眼资源 | `https://api.maoyanapi.top/api.php/provide/vod/at/xml` |
+| 百度资源 | `https://api.apibdzy.com/api.php/provide/vod/?ac=list` |
+| 暴风资源 | `https://bfzyapi.com/api.php/provide/vod/at/xml` |
+| 光速资源 | `https://api.guangsuapi.com/api.php/provide/vod/at/xml/` |
+| 牛牛资源 | `https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml` |
+| 细胞资源 | `https://www.xxibaozyw.com/api.php/provide/vod/at/xml/` |
+| 电影天堂 | `http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/` |
+| 虎牙资源 | `https://www.huyaapi.com/api.php/provide/vod/at/json` |
+| 淘片资源 | `https://taopianapi.com/cjapi/sda/vod/json.html` |
+| 金鹰云资源 | `https://jyzyapi.com/provide/vod/from/jinyingyun/at/json` |
+| 豆瓣资源 | `https://caiji.dbzy5.com/api.php/provide/vod/at/josn/` |
+| 茅台资源 | `https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/` |
+| 幸资源站 | `https://xzybb1.com/api.php/provide/vod/at/xml` |
+| 猫眼资源2 | `https://api.maoyanapi.top/api.php/provide/vod` |
+| CK伦理资源 | `https://ckzy.me/api.php/provide/vod/at/xml/?ac=list` |
+| ikun资源 | `https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json` |
+| 金鹰资源 | `https://jyzyapi.com/provide/vod/at/xml/` |
+
+---
+
+## 📦 Alist 网盘源
+
+> Zyfun 支持 Alist 适配器，可直接挂载网盘资源。在数据管理 → 快捷配置 → 选择 "Alist" 类型填入。
+
+| 名称 | 地址 |
+|------|------|
+| 🙋 丫仙女 | `http://alist.xiaoya.pro/` |
+| 🤮 布满灰尘 | `https://pan.baiblog.ren/` |
+| 🌊 七米蓝 | `https://al.chirmyram.com` |
+| 🌴 非盘 | `http://www.feifwp.top` |
+| 🥼 帅盘 | `https://hi.shuaipeng.wang` |
+| 🐉 神族九帝 | `https://alist.shenzjd.com` |
+| ☃ 姬路白雪 | `https://pan.jlbx.xyz` |
+| 🎧 听闻网盘 | `https://wangpan.sangxuesheng.com` |
+| ✨ 星梦 | `https://pan.bashroot.top` |
 
 ---
 
