@@ -11,7 +11,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "8b56e2d3-16b3-407f-b8b5-70df4bf88fc7",
@@ -24,7 +24,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "25f4e366-9de9-470d-aeab-b19ea64d8261",
@@ -37,20 +37,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "2166f7b1-0f0b-400a-8a3a-e39a49d97d58",
-      "key": "4a7c3b389b1e49e882f1bda9cfa649ec",
-      "name": "M3U8.TV",
-      "api": "https://dmjx.m3u8.tv/?url=",
-      "type": 1,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "a3340546-0947-4408-a287-85b761464389",
@@ -63,7 +50,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "39bdbe6f-bc09-4ff7-a7c9-22e6dfbd0805",
@@ -76,7 +63,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "ac4780df-8691-4318-9320-b89eaad731dd",
@@ -89,72 +76,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "f008826d-89f2-4d76-8478-0a36d0b7963c",
-      "key": "51d1afba453d47e39ba79b39f0002d99",
-      "name": "BL",
-      "api": "https://vip.bljiex.com/?v=",
-      "type": 1,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "95fcf102-e98b-4c02-984d-589e9d5b8999",
-      "key": "d676c505cb8e4963b097a37180e46a61",
-      "name": "777Player",
-      "api": "https://jx.jsonplayer.com/player/?url=",
-      "type": 1,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "62a7bde9-604f-4f96-906b-0e4ef7b7af78",
-      "key": "fb7b4808761d4f5f9947039d8356a66c",
-      "name": "爱狗",
-      "api": "https://jx.i2g.cn/?url=",
-      "type": 1,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "2becfef1-bd48-4d85-adc8-cfec39572463",
-      "key": "7c23f5b0ddb9429fa498e07055faa707",
-      "name": "南风蓝光",
-      "api": "http://jx.66666zy.top/?url=",
-      "type": 1,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "e379b870-66e8-4e63-84e9-f60f43559a3b",
-      "key": "a9b3c0629eef471cad2b34e4bcc92749",
-      "name": "猫影",
-      "api": "https://jx.xgphp.cn/player/?url=",
-      "type": 1,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "2d3788c4-1f5e-4456-9ab0-6dd20fdc9aa1",
@@ -167,7 +89,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "6c4685ea-d7ea-457a-8524-e82aeb58aff7",
@@ -180,20 +102,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "2c327cb9-7152-4e32-bf29-f2252266c0de",
-      "key": "974ccc653a5c47fda6b16411eb8b9299",
-      "name": "OK解析",
-      "api": "https://okjx.cc/?url=",
-      "type": 2,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "8ba443ed-d2e7-4251-980a-454b7c509e79",
@@ -206,7 +115,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "583e9bf1-b388-4771-816b-60eb3703bf8a",
@@ -219,33 +128,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "c3eb5632-8013-4c26-ace3-ce6dd3b49859",
-      "key": "47761be46e4946149788d095dc0fd8d9",
-      "name": "人人迷",
-      "api": "https://jx.blbo.cc:4433/?url=",
-      "type": 2,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "71642029-0c15-44c5-b2ee-c6d1457810d9",
-      "key": "292f9ff13dca4dd4b75eafde57283b63",
-      "name": "七哥",
-      "api": "https://jx.nnxv.cn/tv.php?url=",
-      "type": 2,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "f5406fac-cc55-47aa-822d-fc077c8e0e83",
@@ -258,20 +141,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "b106d62c-ad5b-4092-82e1-91073b78991f",
-      "key": "26824591a10d45d599894446ed2bc5f9",
-      "name": "迪奥",
-      "api": "https://123.1dior.cn/?url=",
-      "type": 2,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "6a6cc830-2768-4e08-84d6-0cd61bb68ec3",
@@ -284,7 +154,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "58939f11-6994-4e76-9074-5dd428a3308a",
@@ -297,7 +167,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "152b6769-be54-4301-a621-bba7241284bc",
@@ -310,7 +180,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "3a2a6378-b852-4fb3-af0d-e70262d9630f",
@@ -323,33 +193,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "769e96f6-8b45-44fd-a120-e194cd7ef5dd",
-      "key": "413a7ddb760f4e1e894b990c6b4d78b3",
-      "name": "解析la",
-      "api": "https://api.jiexi.la/?url=",
-      "type": 2,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "71b64164-6c80-41cd-9095-bd36172a5377",
-      "key": "c9c6a5b9a8374252a3199ca56d9383d8",
-      "name": "MUTV",
-      "api": "https://jiexi.janan.net/jiexi/?url=",
-      "type": 2,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "d49d62c3-0e40-44f7-8842-726a0713656e",
@@ -362,33 +206,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "0840b6c5-58ce-412c-a1fc-97c12620a079",
-      "key": "7342b2a129034e8db4152982227d43da",
-      "name": "盘古",
-      "api": "https://www.pangujiexi.cc/jiexi.php?url=",
-      "type": 2,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "51ddcb02-9d99-4e4e-8380-94776e8bae11",
-      "key": "7ac2d621bed94a30ab105d18d9ec30f4",
-      "name": "0523",
-      "api": "https://go.yh0523.cn/y.cy?url=",
-      "type": 2,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "448ac785-e4d3-4461-8fe5-326bf5938e67",
@@ -401,7 +219,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "b9de75a2-1a36-4663-8bda-8d9f504e6a5e",
@@ -414,7 +232,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "6889f3ba-55ec-4804-b8bb-53e3f9a2d78f",
@@ -427,20 +245,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "34ab8d51-0185-4260-9143-2d498f721b04",
-      "key": "7ee92407dcd244ddafe5e9e430f97077",
-      "name": "180",
-      "api": "https://jx.000180.top/jx/?url=",
-      "type": 2,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "959574b8-aef7-4625-b894-4526cfebab95",
@@ -453,33 +258,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "8bdcb030-aa7e-46f1-92e2-6bc8fa514297",
-      "key": "5ccf2583946c440fb8feb23ea08f8b85",
-      "name": "yangtu",
-      "api": "https://jx.yangtu.top/?url=",
-      "type": 2,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "2c47aef1-0700-4749-a8e0-bdd5a1fb96d7",
-      "key": "7f39a500-c3de-4ea1-8344-c75937b0b795",
-      "name": "小新",
-      "api": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url=",
-      "type": 2,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780664503292,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     },
     {
       "id": "11da3a3d-c4a6-4ff4-b090-b100a3de2cde",
@@ -492,46 +271,7 @@
       "script": "",
       "isActive": true,
       "createdAt": 1780664503292,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "f1cbceb9-1cd4-43ff-985e-cf89ada117db",
-      "key": "399ae147-19d1-4200-9983-0a0e06e73731",
-      "name": "json",
-      "api": "https://jx.bozrc.com:4433/player/?url=",
-      "type": 2,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780664503292,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "aefabbef-f275-4512-be4d-ac66daebdac2",
-      "key": "d3fbf672-5645-42b1-967b-5702e1a2d2ca",
-      "name": "战狼",
-      "api": "https://jx.zhanlangbu.com/?url=",
-      "type": 2,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780664503292,
-      "updatedAt": 1780707892348
-    },
-    {
-      "id": "bd77898c-e215-49ab-a866-f6e2db3727e1",
-      "key": "85118cd3-49a6-4d0e-a36c-c9fa47b099a8",
-      "name": "听乐",
-      "api": "https://jx.dj6u.com/?url=",
-      "type": 2,
-      "flag": [],
-      "headers": {},
-      "script": "",
-      "isActive": true,
-      "createdAt": 1780664503292,
-      "updatedAt": 1780707892348
+      "updatedAt": 1780710238769
     }
   ],
   "iptv": [
@@ -546,7 +286,7 @@
       "headers": {},
       "isActive": true,
       "createdAt": 1780222767154,
-      "updatedAt": 1780222767154
+      "updatedAt": 1780710238769
     },
     {
       "id": "8ef92482-bfd7-4c5a-ac5e-10cd6cf33598",
@@ -559,7 +299,7 @@
       "headers": {},
       "isActive": true,
       "createdAt": 1780222767154,
-      "updatedAt": 1780222767154
+      "updatedAt": 1780710238769
     },
     {
       "id": "655e685d-90a9-43ca-872e-16baa0390c82",
@@ -572,111 +312,7 @@
       "headers": {},
       "isActive": true,
       "createdAt": 1780707946000,
-      "updatedAt": 1780707946000
-    },
-    {
-      "id": "8c3f3baa-a8ad-4c53-ad3f-2caebff5c0b6",
-      "key": "3419c326-f582-4a64-8924-844aca9311b6",
-      "name": "直播二",
-      "api": "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
-      "type": 1,
-      "epg": "",
-      "logo": "",
-      "headers": {},
-      "isActive": true,
-      "createdAt": 1780707969000,
-      "updatedAt": 1780707969000
-    },
-    {
-      "id": "95731947-4281-1c9c-aca2-211edf2883a7",
-      "key": "95731947-4281-1c9c-aca2-211edf2883a7",
-      "name": "秋天直播",
-      "api": "https://pan.shangui.cc/f/XR6dud/%E7%A7%8B%E5%A4%A9%E7%9B%B4%E6%92%AD.txt",
-      "type": 1,
-      "epg": "",
-      "logo": "",
-      "headers": {},
-      "isActive": true,
-      "createdAt": 1780664503287,
-      "updatedAt": 1780664503287
-    },
-    {
-      "id": "23f5fbba-2a40-4ea8-9965-bdcde978abd1",
-      "key": "e4c0f679-ca02-447c-b818-3766dab6a848",
-      "name": "直播四",
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u",
-      "type": 1,
-      "epg": "",
-      "logo": "",
-      "headers": {},
-      "isActive": true,
-      "createdAt": 1780708018000,
-      "updatedAt": 1780708018000
-    },
-    {
-      "id": "7820a319-aedc-ebf8-f486-3ebaf9c1f25d",
-      "key": "7820a319-aedc-ebf8-f486-3ebaf9c1f25d",
-      "name": "pastebin",
-      "api": "https://pastebin.com/raw/tuXBQs7U",
-      "type": 1,
-      "epg": "",
-      "logo": "",
-      "headers": {},
-      "isActive": true,
-      "createdAt": 1780664503287,
-      "updatedAt": 1780664503287
-    },
-    {
-      "id": "e732b84c-8ba3-4d3b-b306-f0e3fe5cfe0f",
-      "key": "6517342b-9b7e-4fd2-a65f-9b8fa10021b8",
-      "name": "直播五",
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/rad168/iptv/main/live.m3u",
-      "type": 1,
-      "epg": "",
-      "logo": "",
-      "headers": {},
-      "isActive": true,
-      "createdAt": 1780708037000,
-      "updatedAt": 1780708037000
-    },
-    {
-      "id": "1984a5f3-6160-4d2d-b294-405bc41a36b4",
-      "key": "1984a5f3-6160-4d2d-b294-405bc41a36b4",
-      "name": "秒看电视",
-      "api": "https://pan.shangui.cc/f/w7Y4fg/%E7%94%B5%E8%A7%86%E5%AE%B6.txt",
-      "type": 1,
-      "epg": "",
-      "logo": "",
-      "headers": {},
-      "isActive": true,
-      "createdAt": 1780664503287,
-      "updatedAt": 1780664503287
-    },
-    {
-      "id": "bc570387-85bb-4057-8f13-2e7a4976d7c4",
-      "key": "bc570387-85bb-4057-8f13-2e7a4976d7c4",
-      "name": "天微科技",
-      "api": "https://tvkj.top/tvlive.txt",
-      "type": 1,
-      "epg": "",
-      "logo": "",
-      "headers": {},
-      "isActive": true,
-      "createdAt": 1780664503287,
-      "updatedAt": 1780664503287
-    },
-    {
-      "id": "6e6e790a-af69-4754-b328-e861a851d460",
-      "key": "6e6e790a-af69-4754-b328-e861a851d460",
-      "name": "广播",
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u",
-      "type": 1,
-      "epg": "",
-      "logo": "",
-      "headers": {},
-      "isActive": true,
-      "createdAt": 1780664503287,
-      "updatedAt": 1780664503287
+      "updatedAt": 1780710238769
     },
     {
       "id": "e36518d0-8598-4df6-af39-87ad59a1a92d",
@@ -689,7 +325,7 @@
       "headers": {},
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "9536c74f-7085-4ee8-a355-5f7b768a3fd9",
@@ -702,7 +338,7 @@
       "headers": {},
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "1a4cb1d7-bc26-45c1-85f9-085ae08bfcdc",
@@ -715,20 +351,7 @@
       "headers": {},
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
-    },
-    {
-      "id": "bce4e868-a7e7-4907-aeaa-a64369faa1c0",
-      "key": "b2b6b05a-9389-4f82-a619-c8460a47c1fc",
-      "name": "直播三",
-      "api": "https://pan.shangui.cc/f/XR6dud/秋天直播.txt",
-      "type": 1,
-      "epg": "",
-      "logo": "",
-      "headers": {},
-      "isActive": true,
-      "createdAt": 1780707993000,
-      "updatedAt": 1780707993000
+      "updatedAt": 1780710238769
     },
     {
       "id": "a5a2dc28-b9e0-433d-b0bb-4791cd61d242",
@@ -741,7 +364,7 @@
       "headers": {},
       "isActive": true,
       "createdAt": 1780708057000,
-      "updatedAt": 1780708057000
+      "updatedAt": 1780710238769
     },
     {
       "id": "95c6e9c1-fda5-435a-9f8a-60a87d042b71",
@@ -754,858 +377,10 @@
       "headers": {},
       "isActive": true,
       "createdAt": 1780708078000,
-      "updatedAt": 1780708078000
+      "updatedAt": 1780710238769
     }
   ],
-  "channel": [
-    {
-      "id": "ikwfLZMvThhzGP2gxG3yK",
-      "name": "CCTV1综合",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctv1gq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503287,
-      "updatedAt": 1780664503287
-    },
-    {
-      "id": "CqS_3eA4DTzTzfqtoCqrh",
-      "name": "CCTV2财经",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctv2gq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "1iiurRBMYfxL7N7cSPDWQ",
-      "name": "CCTV3综艺",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctv3gq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "4pm91DKIVEx6RkmVidaya",
-      "name": "CCTV4中文国际",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctv4gq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "OWyFP3SJFQkltj8nqAgL9",
-      "name": "CCTV5体育",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctv5gq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "BEpPxw6qkF7_6kgjf0Pra",
-      "name": "CCTV5+体育赛事",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctvzhgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "D3TuHiUGhpYFGPMt8OxVJ",
-      "name": "CCTV6电影",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctv6gq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "xuwDM9Odo_IDiopBfU6AM",
-      "name": "CCTV7国防军事",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctv7gq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "CxaTSaNGLmj_2Qj4WgtGn",
-      "name": "CCTV8电视剧",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctv8gq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "syLTzemIebo8yZyP7SXHi",
-      "name": "CCTV9纪录",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctvjlgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "fWM31bxsJMokE6cNYu94s",
-      "name": "CCTV10科教",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctv10gq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "j51Uzk6nqUykdAf9DzJw5",
-      "name": "CCTV11戏曲",
-      "api": "http://125.210.150.58:9090/live/hszx-cctv11-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "d5KUt9CTuiH4vP_mWRUqB",
-      "name": "CCTV12社会与法",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctv12gq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "qPn-DUsbL8epYcAUaY_VU",
-      "name": "CCTV13新闻",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctvnewsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "UcN8hlsZamgsQ577u2vpD",
-      "name": "CCTV14少儿",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctvsegq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "9gtDf0Defy6IrCzpYQd30",
-      "name": "CCTV15音乐",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctvmusicgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "zcU7-w0qaKv2lIOm6kv32",
-      "name": "CCTV16奥林匹克",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctv16gq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "Qayl_eqmEM86rO78pRh02",
-      "name": "CCTV17农业农村",
-      "api": "http://125.210.150.58:9090/live/hzgq-cctv17gq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "央视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "ar6OH03dWbnw5lCb3HQDH",
-      "name": "CGTN",
-      "api": "http://125.210.150.58:9090/live/hszx-cctvgj-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "其他",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "6LzIXxfDYgMiBknjTDORb",
-      "name": "重温经典",
-      "api": "http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "其他",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "LGyojGs02CJPfyPvAlUsN",
-      "name": "CETV4中教4台",
-      "api": "http://125.210.150.58:9090/live/hszx-CETV-4-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "其他",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "6bgQ_3v2KTa1y-fMYYbun",
-      "name": "北京卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-bjgqws-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "J8u8hFTkiragDfLYAyLrv",
-      "name": "东方卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-dftvgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "FGk6VIcSBYWtvMdrAQdGc",
-      "name": "天津卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-tjwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "pctgg-zkKrNnXLK47nobn",
-      "name": "重庆卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-cqwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "1HBmB3xy56I8nbb-oBJT-",
-      "name": "黑龙江卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-hljwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "jaAJ7apmmoRnHSu14azzI",
-      "name": "吉林卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-jlwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "d3ustfshBf_26WRkSC0VE",
-      "name": "辽宁卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-lnwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "8aliJ22YEgKuQFFQP_mDt",
-      "name": "内蒙古卫视",
-      "api": "http://125.210.150.58:9090/live/hszx-nmgtv-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "r_COF15Y1n8j-uCwx_EUG",
-      "name": "宁夏卫视",
-      "api": "http://125.210.150.58:9090/live/hszx-nxtv-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "tBPKsUl_Uvhe-xalL7WiR",
-      "name": "甘肃卫视",
-      "api": "http://125.210.150.58:9090/live/hszx-gstv-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "gu8bZfqvT7jg6t2uO-plr",
-      "name": "青海卫视",
-      "api": "http://125.210.150.58:9090/live/hszx-qhtv-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "OT2CG4T3xy4XyAuPiAg6H",
-      "name": "陕西卫视",
-      "api": "http://125.210.150.58:9090/live/hszx-sxtv-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "pPZq0FFWJxo6vGc22n23V",
-      "name": "河北卫视",
-      "api": "http://125.210.150.58:9090/live/hszx-hebeitv-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "5DQKyYnL2ZSwCpqPo1vAg",
-      "name": "山西卫视",
-      "api": "http://125.210.150.58:9090/live/hszx-shanxitv-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "lFEOYAiNII3xrP5DA-uzH",
-      "name": "山东卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-sdwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "-eOrPixNDHHJOZOLxbS2C",
-      "name": "安徽卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-ahwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "FMEA55nTBwIF3D-MbqxU1",
-      "name": "河南卫视",
-      "api": "http://125.210.150.58:9090/live/hszx-henantv-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "xtSxbr0xlEb7TSPt_YriZ",
-      "name": "湖北卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-hbwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "lMy57A_lfjZ0ftT95WJ6S",
-      "name": "湖南卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-hnwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "lL21yQ2kHkHA-EqNn__qS",
-      "name": "江西卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-jxwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "Hb4Or2m7wV8DU7W2OMUmY",
-      "name": "江苏卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-jswsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "S059JGflNHfjZc39KzlCs",
-      "name": "浙江卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-zjwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "-4JVNDH-zsfrIB6ODufmb",
-      "name": "东南卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-fjwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "xUr0WwIc3F8_JUZtNsGyV",
-      "name": "广东卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-gdwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "GgiM9ZUHtLHoBzn4-hUjW",
-      "name": "深圳卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-szwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "Or9mcd67I5CyyP_JDjRR6",
-      "name": "广西卫视",
-      "api": "http://125.210.150.58:9090/live/hszx-gxtv-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "gugRyMuOVE0Fs4RY9oNyD",
-      "name": "云南卫视",
-      "api": "http://125.210.150.58:9090/live/hszx-yntv-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "XLDlq9QtZKDyE6fhHiRKS",
-      "name": "贵州卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-gzwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "59hrBlce20FdQR2JG_S0h",
-      "name": "四川卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-scwsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "-YpipRKqxUP4BK5Bof4Os",
-      "name": "新疆卫视",
-      "api": "http://125.210.150.58:9090/live/hszx-xjtv-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "oeIpP12tL7LRuZuIV8xK_",
-      "name": "兵团卫视",
-      "api": "http://125.210.150.58:9090/live/hszx-bttv-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "Vb17krLXB8fKDijMrrwjS",
-      "name": "西藏卫视",
-      "api": "http://125.210.150.58:9090/live/hszx-xztv-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503288,
-      "updatedAt": 1780664503288
-    },
-    {
-      "id": "Qr3-0dAfnhcGOqvBNriPv",
-      "name": "海南卫视",
-      "api": "http://125.210.150.58:9090/live/hszx-lytv-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "KbEYjEMlCgl1wYszK1wwq",
-      "name": "三沙卫视",
-      "api": "http://125.210.150.58:9090/live/hzgq-ssws-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "卫视",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "fjdi50mmJi5uKUL5IrEh6",
-      "name": "北京纪实科教",
-      "api": "http://125.210.150.58:9090/live/hszx-bjjs-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "3fUScaivvA2a15ytOD7nP",
-      "name": "四海钓鱼",
-      "api": "http://125.210.150.58:9090/live/hszx-shdy-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "其他",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "jrjRW8Hz1EdBcxSDAsMtA",
-      "name": "金鹰纪实",
-      "api": "http://125.210.150.58:9090/live/hszx-jyjs-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "其他",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "tLuu0ouiuLqp9xEHhJpRN",
-      "name": "浙江钱江",
-      "api": "http://125.210.150.58:9090/live/hzgq-qjpdgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "yclP3bZaHXnjd3I3Am0HT",
-      "name": "浙江经济生活",
-      "api": "http://125.210.150.58:9090/live/hzgq-zjjsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "nlqwCfzvN6hK9kJKL3_NY",
-      "name": "浙江教育科技",
-      "api": "http://125.210.150.58:9090/live/hzgq-zjjygq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "1QBft8hf_SDCdTcTBkWb3",
-      "name": "浙江民生休闲",
-      "api": "http://125.210.150.58:9090/live/hzgq-msxxgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "38npyEOWr7WABBMJkI-j7",
-      "name": "浙江新闻",
-      "api": "http://125.210.150.58:9090/live/hzgq-zjxwgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "Wu6v7QQIV0i5q0spYl2BG",
-      "name": "浙江少儿",
-      "api": "http://125.210.150.58:9090/live/hzgq-zjsegq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "hNk4aDPIVMKD5EaXVmLa5",
-      "name": "浙江好易购",
-      "api": "http://125.210.150.58:9090/live/hzgq-hyggq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "hhO4QUp3PwXVFbWW4q46d",
-      "name": "杭州综合",
-      "api": "http://125.210.150.58:9090/live/hzgq-hzzhgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "YwhU77tzdewfIzkcfnxkg",
-      "name": "杭州明珠",
-      "api": "http://125.210.150.58:9090/live/hzgq-xhmzgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "fcstPrNsEnlI1xm04IKfH",
-      "name": "杭州生活",
-      "api": "http://125.210.150.58:9090/live/hzgq-hzshgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "pYTP6Kw4SNKV_jUNNorcx",
-      "name": "杭州影视",
-      "api": "http://125.210.150.58:9090/live/hzgq-hzysgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "9rMqRVwxR18HHWGbm7nkC",
-      "name": "杭州青少",
-      "api": "http://125.210.150.58:9090/live/hzgq-hzsegq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "2VgcbfAoMUsLU80jYt2az",
-      "name": "杭州导视",
-      "api": "http://125.210.150.58:9090/live/hzgq-hzdsgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "XA01RO9izYeRR4RgTDado",
-      "name": "临平新闻",
-      "api": "http://125.210.150.58:9090/live/hszx-klcd-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "地方",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "83Icau7RMUqvwXnNf9rS0",
-      "name": "华数频道",
-      "api": "http://125.210.150.58:9090/live/hzgq-hsfwgq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "其他",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "_Jh76R5Smlb-O9VFGCq09",
-      "name": "天元围棋",
-      "api": "http://125.210.150.58:9090/live/hszx-tywq-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "其他",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "-SqNXEYVitdBZ8MGBjsQ3",
-      "name": "凤凰中文",
-      "api": "http://125.210.150.58:9090/live/hszx-fhzw-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "其他",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "_Z74YdWOJjxsw7fqBGhpq",
-      "name": "凤凰资讯",
-      "api": "http://125.210.150.58:9090/live/hszx-fhzx-h264.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "其他",
-      "createdAt": 1780664503289,
-      "updatedAt": 1780664503289
-    },
-    {
-      "id": "80b77820-3502-48b2-8b79-b5f34a4b28b7",
-      "name": "示例配置",
-      "api": "https://www.iptv.com/name.m3u8",
-      "logo": "",
-      "playback": "",
-      "headers": {},
-      "group": "示例配置",
-      "createdAt": 1780664503292,
-      "updatedAt": 1780664503292
-    }
-  ],
+  "channel": [],
   "site": [
     {
       "id": "840806fb-5378-1003-4e13-2a1609379304",
@@ -1620,7 +395,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503285,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "d4ec0f2a-5a57-4c3e-9ae9-9f9a7b613053",
@@ -1635,7 +410,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1771775725312,
-      "updatedAt": 1780677354630
+      "updatedAt": 1780710238769
     },
     {
       "id": "6768cdcf-4d18-5fef-10d2-98d513b1f991",
@@ -1650,7 +425,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503285,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "a5a4498a-04ae-5267-b11c-a68eb32ff1e8",
@@ -1665,7 +440,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "313dd6ca-282a-4a89-b2a3-db6a8112f524",
@@ -1680,7 +455,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "cb15e5f4-e058-5766-bb85-f5d2fa28411a",
@@ -1695,7 +470,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "2a3f6007-a1bf-4150-aa53-13fa6c572986",
@@ -1710,7 +485,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "4aa0e523-d76f-504b-812a-5fcccfc9d6b8",
@@ -1725,7 +500,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "51793af6-c923-5504-85db-0ef686624dec",
@@ -1740,13 +515,13 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "cd6b1cbe-42bb-42d3-7844-9494716487e5",
       "key": "cd6b1cbe-42bb-42d3-7844-9494716487e5",
       "name": "量子资源",
-      "api": "http://www.lzzy.tv/api.php/provide/vod/",
+      "api": "https://www.lzzy.tv/api.php/provide/vod/",
       "playUrl": "",
       "search": true,
       "group": "切片",
@@ -1755,7 +530,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503285,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "9bc17f0f-4b09-32ee-afaf-cbef5d4cba8b",
@@ -1770,13 +545,13 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503285,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "d71d84b1-0e06-4c96-b317-3d16ea8ab1c3",
       "key": "92c83eece3664dbaa4438368126e5ffb",
       "name": "非凡资源",
-      "api": "http://www.ffzy.tv/api.php/provide/vod/",
+      "api": "https://www.ffzy.tv/api.php/provide/vod/",
       "playUrl": "",
       "search": false,
       "group": "默认",
@@ -1785,7 +560,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "52a69bcb-934b-47a8-8315-75c9d6bbd194",
@@ -1800,7 +575,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
+      "updatedAt": 1780710238769
     },
     {
       "id": "a9e6e326-5a44-5764-fcd1-addc4c76ab76",
@@ -1815,7 +590,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "a18448a6-f14b-ef60-1893-514a86e63c1c",
@@ -1830,7 +605,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503285,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "b90da766-fcd4-477e-b595-cd3a23fb85fc",
@@ -1845,7 +620,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
+      "updatedAt": 1780710238769
     },
     {
       "id": "2e59659d-cbb8-4aff-8cc4-f90d7d89faf6",
@@ -1860,7 +635,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "643043a5-4f08-5313-bc7e-1385967ad6cd",
@@ -1875,7 +650,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
+      "updatedAt": 1780710238769
     },
     {
       "id": "f55d585d-b146-5db6-d7d2-a9b0d9bfe38f",
@@ -1890,13 +665,13 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "a84439e9-73a8-6b89-b38b-00da0cee5e76",
       "key": "a84439e9-73a8-6b89-b38b-00da0cee5e76",
       "name": "1080zyku",
-      "api": "http://api.1080zyku.com/inc/api_mac10.php",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
       "playUrl": "",
       "search": true,
       "group": "切片",
@@ -1905,7 +680,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "cb658939-5abf-5d37-81d9-16633d80818e",
@@ -1920,7 +695,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "3f778cd0-199c-4b9c-86ea-62528094cda6",
@@ -1935,7 +710,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "da45afab-1426-41ef-a9b6-af661fffafd0",
@@ -1950,7 +725,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "8b94645b-2039-44ca-bcb4-92c60fc09d9d",
@@ -1965,7 +740,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1771775725313,
-      "updatedAt": 1780677354630
+      "updatedAt": 1780710238769
     },
     {
       "id": "bad3b3a5-869c-49c9-a6cf-de7b8278626c",
@@ -1980,7 +755,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "2eddc541-2c20-4d32-ab12-016f8a2641c6",
@@ -1995,7 +770,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "d6821b73-587d-4c18-b7ae-5e5fbf05f035",
@@ -2010,82 +785,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
-    },
-    {
-      "id": "A62533261EA7BD28-D9CC07CF-79D9DD7E-4298969F-6067F8029E373855954147C3",
-      "key": "F8BEA603A75367D9-2D8E0894-533906B4-3DC9B0DF-F3CF50701BB21E751172F902",
-      "name": "奈飞工厂",
-      "api": "https://api.nfctv.top/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "tvbox",
-      "type": 1,
-      "ext": "",
-      "categories": "电视,影视",
-      "isActive": true,
-      "createdAt": 1780198684000,
-      "updatedAt": 1780677354630
-    },
-    {
-      "id": "FACE079319088DB6-5B255137-D8C0095F-AD8A140A-3575D8BAFCFBA9D5E5BC87F5",
-      "key": "70EA639682E446F1-7368D2B6-2533AA56-F44DB49B-32B01A8BEDEA691DCC3AEC9A",
-      "name": "奈飞云",
-      "api": "https://api.naifeiyun.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "tvbox",
-      "type": 1,
-      "ext": "",
-      "categories": "电视,影视",
-      "isActive": true,
-      "createdAt": 1780198700000,
-      "updatedAt": 1780677354630
-    },
-    {
-      "id": "3f9c2e6e-f138-4e70-ab8e-f36720c8a78f",
-      "key": "98ef077c-ba55-4450-87b0-14fafc2e2641",
-      "name": "Ya NaiFei",
-      "api": "https://yanetflix.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "tvbox",
-      "type": 1,
-      "ext": "",
-      "categories": "movie",
-      "isActive": true,
-      "createdAt": 1780199472586,
-      "updatedAt": 1780677354630
-    },
-    {
-      "id": "5ed4745a-70a4-4fe0-adb4-315678b6928f",
-      "key": "663397e8-9a9d-4875-96dc-46a8480f8e30",
-      "name": "NaiLuo Cinema",
-      "api": "https://www.naielu.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "tvbox",
-      "type": 1,
-      "ext": "",
-      "categories": "movie",
-      "isActive": true,
-      "createdAt": 1780199472586,
-      "updatedAt": 1780677354630
-    },
-    {
-      "id": "d96d96f4-e253-44e5-8257-ce1446429933",
-      "key": "3419067d-9d8e-4259-b2e2-4b94fcac1604",
-      "name": "HeiMu Resource",
-      "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "tvbox",
-      "type": 1,
-      "ext": "",
-      "categories": "movie",
-      "isActive": true,
-      "createdAt": 1780199472586,
-      "updatedAt": 1780677354630
+      "updatedAt": 1780710238769
     },
     {
       "id": "2567b33b-2096-4c3d-ae53-3f1cebf48fd0",
@@ -2100,7 +800,7 @@
       "categories": "movie",
       "isActive": true,
       "createdAt": 1780199472586,
-      "updatedAt": 1780677354630
+      "updatedAt": 1780710238769
     },
     {
       "id": "b0556c19-8b42-4501-a922-30a7b904ee4a",
@@ -2115,37 +815,7 @@
       "categories": "movie",
       "isActive": true,
       "createdAt": 1780199472586,
-      "updatedAt": 1780677354630
-    },
-    {
-      "id": "9eb9f27b-afc0-4fef-a47c-31c592541c21",
-      "key": "4b7791f5-5341-43f4-bf3c-221311959bc0",
-      "name": "ChangZhang Resource",
-      "api": "https://czzyapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "tvbox",
-      "type": 1,
-      "ext": "",
-      "categories": "movie",
-      "isActive": true,
-      "createdAt": 1780199472586,
-      "updatedAt": 1780677354630
-    },
-    {
-      "id": "0eda78ed-2ae2-4051-9834-7a038a6b68a3",
-      "key": "b2bef29f-511a-414e-9a79-b16838ab1ca1",
-      "name": "KuaiKan",
-      "api": "https://kuaikan-api.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "tvbox",
-      "type": 1,
-      "ext": "",
-      "categories": "movie",
-      "isActive": true,
-      "createdAt": 1780199472586,
-      "updatedAt": 1780677354630
+      "updatedAt": 1780710238769
     },
     {
       "id": "d20daaa1-260a-4678-b665-8184d80dc23e",
@@ -2160,7 +830,7 @@
       "categories": "movie",
       "isActive": true,
       "createdAt": 1780199472586,
-      "updatedAt": 1780677354630
+      "updatedAt": 1780710238769
     },
     {
       "id": "25b808a7-3017-42a4-be7f-441b10039fd9",
@@ -2175,7 +845,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780222751563,
-      "updatedAt": 1780677354630
+      "updatedAt": 1780710238769
     },
     {
       "id": "b87f7019-6e41-4d4b-8cc7-a259957a3f5a",
@@ -2190,52 +860,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780222751563,
-      "updatedAt": 1780677354630
-    },
-    {
-      "id": "4a871b02-1c03-34de-281f-109ff7946efb",
-      "key": "4a871b02-1c03-34de-281f-109ff7946efb",
-      "name": "卧龙资源",
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503283,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "11296d39-f697-875c-4b93-6f44545cc0d8",
-      "key": "11296d39-f697-875c-4b93-6f44545cc0d8",
-      "name": "乐视",
-      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
-      "playUrl": "",
-      "search": true,
-      "group": "官采",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "de3978b2-7967-40fb-ab5f-962f292b1cd0",
-      "key": "6ef66a1c-e235-48bb-a38d-e0a9ee41b1e6",
-      "name": "49ZYTV",
-      "api": "https://49zyw.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "API",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
+      "updatedAt": 1780710238769
     },
     {
       "id": "023c0f45-8c70-4793-9d20-6adfb41ef1ef",
@@ -2250,22 +875,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
-    },
-    {
-      "id": "ef0b5573-e22b-4521-83fa-b175e8b76113",
-      "key": "99f145e0-4aba-446d-a4cd-2c3755f9e40c",
-      "name": "NanGuoTV",
-      "api": "http://api.nguonphim.tv/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "API",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
+      "updatedAt": 1780710238769
     },
     {
       "id": "84127e13-6ab2-48ab-9c41-7df0356ad90a",
@@ -2280,7 +890,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "ea785b69-1494-4f18-bd0a-c3b7c3eaa559",
@@ -2295,7 +905,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
+      "updatedAt": 1780710238769
     },
     {
       "id": "89cee8c5-c86a-9391-a9f2-6fb7131614e3",
@@ -2310,37 +920,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "5ad3edc1-8e52-5bf6-90f1-2f785465ec2a",
-      "key": "5ad3edc1-8e52-5bf6-90f1-2f785465ec2a",
-      "name": "奇虎",
-      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "影视",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "f10d2925-a991-1fa1-475f-21ac57ef698f",
-      "key": "f10d2925-a991-1fa1-475f-21ac57ef698f",
-      "name": "飞速资源",
-      "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "默认",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "5012fc48-08a6-4157-b356-006799bd16af",
@@ -2355,22 +935,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
-    },
-    {
-      "id": "66517879-b40e-4001-be39-4cd5f9cda8c3",
-      "key": "0653c516999d46b695fa086d1cb174c3",
-      "name": "魔爪资源",
-      "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": true,
-      "group": "默认",
-      "type": 0,
-      "ext": "",
-      "categories": "电视,影视",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "5b45accb-c367-e891-617f-1d6140656604",
@@ -2385,22 +950,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503285,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "014234c3-aa3e-583d-a4f5-87c058843aca",
-      "key": "014234c3-aa3e-583d-a4f5-87c058843aca",
-      "name": "timizy",
-      "api": "https://vipcj.timizy.top/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "官采",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "d1ca896a-520b-4dc9-9a2f-107d2c3237fd",
@@ -2415,7 +965,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "ef411366-535c-4b97-8473-90c391512d1c",
@@ -2430,37 +980,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "c84b6ae8-8583-4216-a438-02fd76df388f",
-      "key": "2f3f2339-1314-4a86-a7c5-7efa754b683e",
-      "name": "FanHaoTV",
-      "api": "http://fhapi9.com/api.php/provide/vod/at/json/?ac=list",
-      "playUrl": "",
-      "search": true,
-      "group": "API",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "bff1f137-fb6a-4b57-9da5-bd519abbd4cb",
-      "key": "bff1f137-fb6a-4b57-9da5-bd519abbd4cb",
-      "name": "快云资源",
-      "api": "https://kuaiyun-api.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
+      "updatedAt": 1780710238769
     },
     {
       "id": "2b9e12f7-c32b-46f1-b503-75ff017a54ef",
@@ -2475,7 +995,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
+      "updatedAt": 1780710238769
     },
     {
       "id": "88a4fc5f-c354-4a5d-aa1c-dff458bc3958",
@@ -2490,28 +1010,13 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "3687bd7a-e957-4acd-b596-27ff1e0dd298",
-      "key": "b0a420fc-488c-4ff5-ba47-299bb0786b19",
-      "name": "TianTangTV",
-      "api": "http://vipmv.cc/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "API",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
+      "updatedAt": 1780710238769
     },
     {
       "id": "f55debbd-fd73-4a7c-8020-66cb70fe86bf",
       "key": "54a211de17af4f59b5d494fcda819965",
       "name": "电影天堂",
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "search": true,
       "group": "默认",
@@ -2520,7 +1025,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "e70ee8ed-95f3-412a-8ccc-6f5d0a615cc1",
@@ -2535,7 +1040,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
+      "updatedAt": 1780710238769
     },
     {
       "id": "1dfbfd04-20e2-43b2-b896-0fcbfa978f61",
@@ -2550,58 +1055,13 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "eb3d2ddf-76ec-b462-0ff2-b930c7faf602",
-      "key": "eb3d2ddf-76ec-b462-0ff2-b930c7faf602",
-      "name": "忆梦资源",
-      "api": "http://anltv.cn/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "c2ca30e7-897e-f519-3122-7aef7db2fb5c",
-      "key": "c2ca30e7-897e-f519-3122-7aef7db2fb5c",
-      "name": "天空资源",
-      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503285,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "a7760088-e2d9-4eb2-894c-14652cefe7a1",
-      "key": "3de7b5fc-0744-4812-a110-dfecbf5d541b",
-      "name": "YiKanTV",
-      "api": "https://api.yikanapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "API",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
+      "updatedAt": 1780710238769
     },
     {
       "id": "a00bc761-7b9f-5804-9bfd-7a07322159b5",
       "key": "a00bc761-7b9f-5804-9bfd-7a07322159b5",
       "name": "海外看[翻墙]",
-      "api": "http://api.haiwaikan.com/v1/vod",
+      "api": "https://api.haiwaikan.com/v1/vod",
       "playUrl": "",
       "search": true,
       "group": "影视",
@@ -2610,43 +1070,13 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "7a99e841-c446-44b6-a2f2-45afc38fc1aa",
-      "key": "794634ba-a7ab-48af-a3dc-8f1ab57c6800",
-      "name": "TOMTV",
-      "api": "https://api.tomcaiji.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "API",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "562aeb6b-8c03-3660-54e2-291f121dac9e",
-      "key": "562aeb6b-8c03-3660-54e2-291f121dac9e",
-      "name": "鱼乐资源",
-      "api": "https://ylzy11.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503285,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "dc03252b-735d-467e-be45-27d88ddfbd1e",
       "key": "dc03252b-735d-467e-be45-27d88ddfbd1e",
       "name": "速播",
-      "api": "http://suboziyuan.net/api.php/provide/vod/",
+      "api": "https://suboziyuan.net/api.php/provide/vod/",
       "playUrl": "",
       "search": true,
       "group": "切片",
@@ -2655,22 +1085,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "566fb0e1-8619-09dd-de4a-42ba872737dc",
-      "key": "566fb0e1-8619-09dd-de4a-42ba872737dc",
-      "name": "影图资源",
-      "api": "https://cj.vodimg.top/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "393b857f-18c2-43c4-aca7-417182faea3d",
@@ -2685,217 +1100,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "6238046c-c30f-4495-90d1-8f025892eef7",
-      "key": "f22f6b79-4689-4c75-ab06-b5b4ace965b6",
-      "name": "91ZYTV",
-      "api": "https://91jpzyw.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": true,
-      "group": "API",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "94ae60e6-1d74-4e1c-87c0-338727e958af",
-      "key": "14c82d99-36a8-4eac-ba47-ed6230ec174c",
-      "name": "FeiYuDRPY",
-      "api": "csp_XBPQ",
-      "playUrl": "",
-      "search": true,
-      "group": "DRPY",
-      "type": 7,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "d0eee1de-212b-41f2-92c2-7d9b33a8633f",
-      "key": "a72f90f8-cb0a-4750-a9c2-c2c628352261",
-      "name": "DouBanDRPY",
-      "api": "csp_DRPY",
-      "playUrl": "",
-      "search": true,
-      "group": "DRPY",
-      "type": 7,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "816210e1-c777-44e8-91ef-252ce1c7e8cb",
-      "key": "f4e5c607-5200-41f0-bca2-7c106640ae80",
-      "name": "ReBoDRPY",
-      "api": "csp_AppRJ",
-      "playUrl": "",
-      "search": true,
-      "group": "DRPY",
-      "type": 7,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "d20ee3b6-1b1b-447a-b70f-366838c131bc",
-      "key": "9dd5d8f3-38bb-4bf6-b4a1-d3ec3471c6f5",
-      "name": "SanQiuDRPY",
-      "api": "csp_App3Q",
-      "playUrl": "",
-      "search": true,
-      "group": "DRPY",
-      "type": 7,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "6da74ed7-43bc-4acf-ba5d-3d8f287dc1fa",
-      "key": "35da2aca-01a1-45ab-8bcc-3e9fe5d3eef7",
-      "name": "TingXinDRPY",
-      "api": "csp_App99",
-      "playUrl": "",
-      "search": true,
-      "group": "DRPY",
-      "type": 7,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "fa6cf218-1202-4a6c-a803-a24537a1ba83",
-      "key": "8c53a4f0-2721-49ea-819a-752367c3c122",
-      "name": "DianYingTTDRPY",
-      "api": "csp_AppDrama",
-      "playUrl": "",
-      "search": true,
-      "group": "DRPY",
-      "type": 7,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "7889436b-b2df-4b31-b04c-c46ab0b271da",
-      "key": "f93dd82c-11c3-4ef7-b738-931de69077bf",
-      "name": "JiuJiuDRPY",
-      "api": "csp_AppYsV2",
-      "playUrl": "",
-      "search": true,
-      "group": "DRPY",
-      "type": 7,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "86b15483-a421-44e7-bbc2-cf03b914873c",
-      "key": "1cb699f0-6f22-462d-bd4d-7b49ab53f91b",
-      "name": "YunBoDRPY",
-      "api": "csp_AppFox",
-      "playUrl": "",
-      "search": true,
-      "group": "DRPY",
-      "type": 7,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "15efda59-ca07-4ce3-baf0-83fc72cbaed8",
-      "key": "e574c0f0-0e55-4bb2-9b4b-f5781bbddaef",
-      "name": "ShouFaDRPY",
-      "api": "csp_AppQi",
-      "playUrl": "",
-      "search": true,
-      "group": "DRPY",
-      "type": 7,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677362156
-    },
-    {
-      "id": "9be2de91-6711-40d4-b5aa-6f53711a12a8",
-      "key": "4500e63a-970a-4a83-87da-a447936d0fd6",
-      "name": "LieBaoDRPY",
-      "api": "csp_AppGet",
-      "playUrl": "",
-      "search": true,
-      "group": "DRPY",
-      "type": 7,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "69758b67-3aec-4dfe-a369-d9cddc87c7af",
-      "key": "3e58c132-82e7-487c-bd41-48264ade4b0c",
-      "name": "WanOu4KDRPY",
-      "api": "csp_Wogg",
-      "playUrl": "",
-      "search": true,
-      "group": "4K",
-      "type": 7,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "884a5777-e9b8-499c-b649-0502e626ca40",
-      "key": "2f6e40a2-a4f3-4845-b33e-ca58920f530a",
-      "name": "KuaiYing4KDRPY",
-      "api": "csp_PanWebShare",
-      "playUrl": "",
-      "search": true,
-      "group": "4K",
-      "type": 7,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "5897ae8f-074a-41e4-bd94-0c7ace8d6545",
-      "key": "42181ae2-929f-4f5d-924f-523679cb40b8",
-      "name": "BiliDRPY",
-      "api": "csp_BiliYS",
-      "playUrl": "",
-      "search": true,
-      "group": "DRPY",
-      "type": 7,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780222751563,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "504ae106-5751-379f-8a1e-83bad8cd7d61",
@@ -2910,7 +1115,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503285,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "76489ae3-c843-35a2-860b-58868e8ee4cd",
@@ -2925,7 +1130,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503285,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "2cc99a31-9a03-16f4-3a8e-6db1f113bc5e",
@@ -2940,7 +1145,7 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503285,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "59a19f43-e8b7-5359-427f-a007ecd2d8e3",
@@ -2955,28 +1160,13 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503285,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "7d6ab82c-339d-82c9-d82d-26070df703d0",
-      "key": "7d6ab82c-339d-82c9-d82d-26070df703d0",
-      "name": "飞速资源",
-      "api": "https://www.feisuzy.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503285,
-      "updatedAt": 1780677367272
+      "updatedAt": 1780710238769
     },
     {
       "id": "28393120-9d11-5110-b209-c925b2d8f87e",
       "key": "28393120-9d11-5110-b209-c925b2d8f87e",
       "name": "非凡资源",
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "playUrl": "",
       "search": true,
       "group": "切片",
@@ -2985,208 +1175,13 @@
       "categories": "",
       "isActive": true,
       "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "24875219-40cb-d350-047f-a82c813293a3",
-      "key": "24875219-40cb-d350-047f-a82c813293a3",
-      "name": "真逗",
-      "api": "http://ys.realdou.cn/api.php/app/",
-      "playUrl": "",
-      "search": true,
-      "group": "app",
-      "type": 3,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "136a93b2-9826-af52-d063-dd5b4e637ba5",
-      "key": "136a93b2-9826-af52-d063-dd5b4e637ba5",
-      "name": "具全",
-      "api": "http://xinxing.juquanweb.top/icciu_api.php/v1.vod",
-      "playUrl": "",
-      "search": true,
-      "group": "app",
-      "type": 4,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "d0e66944-61f8-2197-4356-8f8cde93e100",
-      "key": "d0e66944-61f8-2197-4356-8f8cde93e100",
-      "name": "徕米",
-      "api": "https://www.laimi.me/api.php/v1.vod",
-      "playUrl": "",
-      "search": true,
-      "group": "app",
-      "type": 4,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "fc028ea5-d479-5253-b247-c11f99d06dda",
-      "key": "fc028ea5-d479-5253-b247-c11f99d06dda",
-      "name": "KUIN",
-      "api": "https://www.kuin.one/api.php/app",
-      "playUrl": "",
-      "search": true,
-      "group": "app",
-      "type": 3,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677367272
-    },
-    {
-      "id": "643043a5-4f08-5313-bc7f-1385967ad6cd",
-      "key": "643043a5-4f08-5313-bc7f-1385967ad6cd",
-      "name": "腐宅",
-      "api": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod",
-      "playUrl": "",
-      "search": true,
-      "group": "app",
-      "type": 4,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "54e747d7-4a0d-4e71-aaa9-a2272cdb4fc5",
-      "key": "54e747d7-4a0d-4e71-aaa9-a2272cdb4fc5",
-      "name": "全站资源",
-      "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "官采",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "8ccd22d8-7405-eda1-668d-950260f50d1e",
-      "key": "8ccd22d8-7405-eda1-668d-950260f50d1e",
-      "name": "爱狗",
-      "api": "https://api.i2g.cn/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "官采",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "7a0c3c38-d860-465d-9f2d-34bb430f9add",
-      "key": "7a0c3c38-d860-465d-9f2d-34bb430f9add",
-      "name": "左岸",
-      "api": "http://103.97.176.128:9528/api.php/provide/vod/",
-      "playUrl": "http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
-      "search": true,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "d24a2022-450a-48b6-9051-ac04b398dfdc",
-      "key": "d24a2022-450a-48b6-9051-ac04b398dfdc",
-      "name": "49资源网",
-      "api": " https://49zyw.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "3b12d06d-96bc-4bca-a973-1177abeb5bc7",
-      "key": "3b12d06d-96bc-4bca-a973-1177abeb5bc7",
-      "name": "快看资源",
-      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikanyun",
-      "playUrl": "",
-      "search": true,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "883db2b8-eb09-45c9-96b2-bdf9cd4123ac",
-      "key": "883db2b8-eb09-45c9-96b2-bdf9cd4123ac",
-      "name": "快鹰资源",
-      "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/",
-      "playUrl": "https://stray.serv00.net/ky.php?url=",
-      "search": true,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "c46de987-070e-4ed7-9844-703f3915128d",
-      "key": "c46de987-070e-4ed7-9844-703f3915128d",
-      "name": "AI1",
-      "api": "http://124.222.116.5/macos/seven/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "官采",
-      "type": 1,
-      "ext": "",
-      "categories": "",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "d600021e-e135-4691-ba1b-7bbb290c3a82",
-      "key": "d600021e-e135-4691-ba1b-7bbb290c3a82",
-      "name": "业余自营",
-      "api": "http://154.3.2.163/api.php/provide/vod/",
-      "playUrl": "",
-      "search": true,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "短剧,电影,电视剧,动漫,综艺,记录片,体育",
-      "isActive": true,
-      "createdAt": 1780664503286,
-      "updatedAt": 1780677371443
+      "updatedAt": 1780710238769
     },
     {
       "id": "ecc6b395-af2c-4a78-99d8-345adfb17ecd",
       "key": "f7821928697a4a77992c6102611bf076",
       "name": "量子资源",
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "playUrl": "",
       "search": false,
       "group": "默认",
@@ -3195,7 +1190,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "603c6c3b-2101-46e5-a810-51a1f2d28880",
@@ -3210,13 +1205,13 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "669edfa9-746e-4017-9bbe-6735d5f9927e",
       "key": "615816dfe4a24233870437331f041906",
       "name": "闪电资源",
-      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
       "playUrl": "",
       "search": false,
       "group": "默认",
@@ -3225,7 +1220,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "99ec3c09-d76e-4ded-84c2-5a7647fbc01d",
@@ -3240,7 +1235,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "ed6c7bd1-b2ad-4e7c-a3de-52c31c4134e9",
@@ -3255,7 +1250,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "f2f54d34-7779-4c3b-8775-2327ebf7bd3d",
@@ -3270,7 +1265,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "7a4091a2-5069-4cc9-b82b-1ff9a728cc3c",
@@ -3285,7 +1280,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "b47055bf-fbad-4914-92ca-15f089201465",
@@ -3300,7 +1295,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "29c2fc29-62b8-4af6-8245-9fceea036214",
@@ -3315,22 +1310,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
-    },
-    {
-      "id": "18ebfb0e-8c68-451b-b30a-ddcb11ed1b1c",
-      "key": "4aff460cfe164599874142cb23ae6904",
-      "name": "幸资源站",
-      "api": "https://xzybb1.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": true,
-      "group": "默认",
-      "type": 0,
-      "ext": "",
-      "categories": "电视,影视",
-      "isActive": true,
-      "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "a4531311-e891-4ba6-9941-cec377022a2e",
@@ -3345,7 +1325,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
+      "updatedAt": 1780710238769
     },
     {
       "id": "fff929ef-5c38-4fd8-9bd1-30514aa7b9a7",
@@ -3360,7 +1340,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780664503291,
-      "updatedAt": 1780677371443
+      "updatedAt": 1780710238769
     },
     {
       "id": "12e50b99-fc20-4814-b056-a030bb4fa32f",
@@ -3375,37 +1355,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780707039157,
-      "updatedAt": 1780707039157
-    },
-    {
-      "id": "2dcf9c52-fe3d-4d1b-b934-d1759e35b456",
-      "key": "691bff66-297c-474c-804b-58cb02a58c06",
-      "name": "🙋丫仙女",
-      "api": "http://alist.xiaoya.pro/",
-      "playUrl": "",
-      "search": false,
-      "group": "云盘",
-      "type": 13,
-      "ext": "{}",
-      "categories": "电视,影视",
-      "isActive": true,
-      "createdAt": 1780664503291,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "3c4c6407-08fa-4a98-8441-bc25a70720b5",
-      "key": "95850b36-c375-4d57-b08a-498861947925",
-      "name": "🤮布满灰尘",
-      "api": "https://pan.baiblog.ren/",
-      "playUrl": "",
-      "search": false,
-      "group": "云盘",
-      "type": 13,
-      "ext": "{}",
-      "categories": "电视,影视",
-      "isActive": true,
-      "createdAt": 1780664503291,
-      "updatedAt": 1780677371443
+      "updatedAt": 1780710238769
     },
     {
       "id": "210869b6-2b94-4d53-9a92-1ac071045592",
@@ -3420,37 +1370,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780664503291,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "eed0528e-f73d-4c3e-96c2-d9dbcb8335b3",
-      "key": "9c1c17ca-7e1e-468e-99bb-ad141eda20d3",
-      "name": "🌴非盘",
-      "api": "http://www.feifwp.top",
-      "playUrl": "",
-      "search": false,
-      "group": "云盘",
-      "type": 13,
-      "ext": "{}",
-      "categories": "电视,影视",
-      "isActive": true,
-      "createdAt": 1780664503291,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "2b58069a-fa9e-45cc-8bf1-61dc4d36c242",
-      "key": "c43983a7-7c00-43a8-b069-1c76c38d7ddf",
-      "name": "🥼帅盘",
-      "api": "https://hi.shuaipeng.wang",
-      "playUrl": "",
-      "search": false,
-      "group": "云盘",
-      "type": 13,
-      "ext": "{}",
-      "categories": "电视,影视",
-      "isActive": true,
-      "createdAt": 1780664503291,
-      "updatedAt": 1780677371443
+      "updatedAt": 1780710238769
     },
     {
       "id": "1c45c539-c3be-45eb-a561-e0807f21163b",
@@ -3465,52 +1385,7 @@
       "categories": "电视,影视",
       "isActive": true,
       "createdAt": 1780664503291,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "456fb0c2-02fc-4e9f-8f03-9d916cbb9c2b",
-      "key": "8ded937d-7595-4a73-b053-ec9618ce8533",
-      "name": "☃姬路白雪",
-      "api": "https://pan.jlbx.xyz",
-      "playUrl": "",
-      "search": false,
-      "group": "云盘",
-      "type": 13,
-      "ext": "{}",
-      "categories": "电视,影视",
-      "isActive": true,
-      "createdAt": 1780664503291,
-      "updatedAt": 1780677371443
-    },
-    {
-      "id": "5a86ceea-429c-460e-8fed-ab372537dd28",
-      "key": "911b019c-8821-495c-bc24-0b78de14f3e8",
-      "name": "🎧听闻网盘",
-      "api": "https://wangpan.sangxuesheng.com",
-      "playUrl": "",
-      "search": false,
-      "group": "云盘",
-      "type": 13,
-      "ext": "{}",
-      "categories": "电视,影视",
-      "isActive": true,
-      "createdAt": 1780664503291,
-      "updatedAt": 1780677375639
-    },
-    {
-      "id": "973ceabc-daa4-4ab0-9017-94747f83b508",
-      "key": "365ff94a-672b-438a-bf9f-6693ad112edf",
-      "name": "✨星梦",
-      "api": "https://pan.bashroot.top",
-      "playUrl": "",
-      "search": false,
-      "group": "云盘",
-      "type": 13,
-      "ext": "{}",
-      "categories": "电视,影视",
-      "isActive": true,
-      "createdAt": 1780664503291,
-      "updatedAt": 1780677375639
+      "updatedAt": 1780710238769
     }
   ],
   "drive": [
@@ -3518,7 +1393,7 @@
       "id": "9efc5017-ce7c-46e9-a3cc-8b6d197d8b89",
       "key": "31510eff5f30489c81ba7a94c335cd6d",
       "name": "🙋丫仙女",
-      "server": "http://alist.xiaoya.pro/",
+      "server": "https://alist.xiaoya.pro/",
       "showAll": false,
       "startPage": "",
       "search": false,
@@ -3554,7 +1429,7 @@
       "id": "bf210b3d-ffad-4e6b-aae8-7ad60117f534",
       "key": "9f1ae6d677fd44eb961cd9389807fdba",
       "name": "🌴非盘",
-      "server": "http://www.feifwp.top",
+      "server": "https://www.feifwp.top",
       "showAll": false,
       "startPage": "",
       "search": false,
@@ -3631,9 +1506,9 @@
       "lang": "system",
       "timeout": 10000,
       "hot": "douban",
-      "defaultAnalyze": "",
-      "defaultIptv": "b83b3f7c-ee49-4ce0-982e-14a106ab7e3b",
-      "defaultSite": "cb6640af-c432-4535-8db1-a82669e381aa",
+      "defaultAnalyze": "0423110d-ab14-4250-917a-d086920cb64d",
+      "defaultIptv": "ba67a0cc-ff68-43eb-b29a-dd6d4cef6c15",
+      "defaultSite": "840806fb-5378-1003-4e13-2a1609379304",
       "site": {
         "searchMode": "all",
         "filterMode": false
